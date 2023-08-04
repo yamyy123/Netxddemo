@@ -1,6 +1,6 @@
 # Netxddemo
 Here we are learning how to use git
-# netcd-go
+# netxd-go
 
 # git learning
 git clone <repository>
@@ -27,7 +27,7 @@ incase of conflicts resolved
  in the list #1.
 
  # To publish the branch
- 
+
  git push -u origin <branch name>
 
  # To go to the main branch
